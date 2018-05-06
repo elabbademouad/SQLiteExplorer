@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SQLiteExplorer.ViewModel.ColumnViewModel">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIIAAAAAAgAACEAAAAAAQAIBAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ColumnViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SQLiteExplorer.ViewModel.DataBaseViewModel">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAMAAUAAAAEAAAAAAAQAQQiAAAAABAACAAAAAAQAA=</HashCode>
+      <FileName>ViewModel\DataBaseViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SQLiteExplorer.ViewModel.ObjectExplorerViewModel">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABABAIABAAAAAAAgAEAAABQAQAAAKAAgAA=</HashCode>
+      <FileName>ViewModel\ObjectExplorerViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SQLiteExplorer.ViewModel.MainWindowViewModel">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ViewModel\MainWindowViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SQLiteExplorer.ViewModel.TableViewModel">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIQAAAAAAAAAAQAAAAAQAAAAAAAAAAAEAAAoAAAA=</HashCode>
+      <FileName>ViewModel\TableViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SQLiteExplorer.ViewModel.TriggerViewModel">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAQAAAIA=</HashCode>
+      <FileName>ViewModel\TriggerViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SQLiteExplorer.ViewModel.ViewViewModel">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\ViewViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
