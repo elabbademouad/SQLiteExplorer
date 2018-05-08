@@ -8,4 +8,4 @@ Object Explorer fournit une interface utilisateur hiérarchique permettant d'aff
 Le volet Détails de l'Explorateur d'objets présente une vue tabulaire des objets  et permet de rechercher des objets spécifiques. <br/>
 > Object Explorer screenshot.
 ![](/ObjectExplorer.PNG)
-### SQL Editor (In progress)
+### SQL Editor (En cours)
