@@ -1,6 +1,8 @@
 # SQLiteExplorer 
 SQLiteExplorer est un Logiciel OpenSource  qui propose une interface graphique au but de simplifier
-l'administration et la gestion des bases de données SQLite
+l'administration et la gestion des bases de données SQLite.<br/>
+-Technologie : WPF<br/>
+-Langage : c#
 ## Composants :
 SQLiteExplorer inclut plusieurs composants  
 ### Objects Explorer
