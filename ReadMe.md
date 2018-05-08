@@ -6,6 +6,6 @@ SQLiteExplorer inclut plusieurs composants
 #### Objects Explorer
 Object Explorer fournit une interface utilisateur hiérarchique permettant d'afficher et de gérer les objets dans chaque fichier de base de données SQLite.<br/>
 Le volet Détails de l'Explorateur d'objets présente une vue tabulaire des objets  et permet de rechercher des objets spécifiques. <br/>
-> Follow your heart.
+> Object Explorer screenshot.
 
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+![](https://github.com/elabbademouad/SQLiteExplorer/blob/master/ObjectExplorer.PNG)
